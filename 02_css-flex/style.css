@@ -1,0 +1,14 @@
+.container {
+    background-color: DodgerBlue;
+    padding: 10px;
+}
+
+.item {
+    width: 3em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f1f1f1;
+    margin: 10px 0;
+    line-height: 75px;
+    text-align: center;
+    font-size: 30px;
+}
