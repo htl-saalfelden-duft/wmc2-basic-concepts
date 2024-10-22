@@ -10,3 +10,4 @@
 * Der Button-OK sollte grün sein
 * Der Button-Cancel sollte die Farbe grau bekommen
 * Der Abstand zwischen den Buttons sollte 20px betragen
+* Beide Buttons sollten beim Darüberbewegen der Maus die Farbe verändern.
